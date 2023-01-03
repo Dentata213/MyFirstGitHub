@@ -8,5 +8,6 @@
 </head>
 <body>
 	템플릿
+	템플릿내용추가
 </body>
 </html>
