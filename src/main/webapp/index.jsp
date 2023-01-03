@@ -8,5 +8,8 @@
 </head>
 <body>
 	<h2>GIT</h2>
+	<fieldset>
+		<legend>GIT수업</legend>
+	</fieldset>
 </body>
 </html>
